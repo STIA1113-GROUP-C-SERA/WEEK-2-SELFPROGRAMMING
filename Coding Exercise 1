@@ -1,0 +1,63 @@
+package javaBeginners;
+
+public class facts {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("We present the following facts for your" + "extracurricular edification:");
+System.out.println();
+System.out.println("Letters in the Hawaiian alphabet: 12");
+System.out.println("Dialing code for Antarctica: " + 672);
+System.out.println("Year in which Leonardo da Vinci invented" + "the parachute:" + 1515);
+System.out.println("Speed of ketchup:" + 40 + "km per year");
+	}
+
+}
+
+package javaBeginners;
+
+public class Addiction {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("24 and 45 concatenated:" + 24 + 45);
+System.out.println("24 and 45 added:" +(24 + 45));
+	}
+
+}
+
+package javaBeginners;
+
+public class quickCheck {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("x:" + 25);
+System.out.println("y:" + (15+50));
+System.out.println("z:" + 300+50);
+	}
+
+}
+
+package javaBeginners;
+
+public class Roses {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("Roses are red,\n\tViolets are blue,\n" + "Sugar is sweet,\n\tBut I have\"commitment issues\",\n\t" + "so I'd rather just be friends \n\tAt this point in our" + "relationship.");
+	}
+
+}
+
+
+package javaBeginners;
+
+public class quickCheck2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("\"Thank you all for " + "coming to my home\ntoning,\" he said " + "mysteriously.");
+	}
+
+}
